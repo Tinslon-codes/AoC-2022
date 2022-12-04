@@ -38,7 +38,5 @@ while True:
     else:
         break
     total += priority
-    print(duplicateItem, priority)
 
 print(total)
-
